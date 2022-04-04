@@ -1,5 +1,4 @@
-<div align="center"></div>
-<h1 align="center"Cancer Nanotechnology Trend</h1>
+<h1 align="center">Cancer Nanotechnology Trend</h1>
 <p align="center"><strong>Machine Learning Techniques in Cancer Nanotechnology</strong>
 <br>Comment</p><br/>
 <div align="center"><img src="demo.gif"></img></div>
