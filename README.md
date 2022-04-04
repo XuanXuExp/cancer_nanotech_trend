@@ -3,7 +3,7 @@
 <div align="center"><img src="images/Graphical Abstract.jpg"></img></div>
 
 <h2>About</h2>
-<a href="https://doi.org/10.3390/cancers13174417" target="_blank"></a>
+<a href="https://doi.org/10.3390/cancers13174417"></a>
 
 <h2>Summary</h2>
 
