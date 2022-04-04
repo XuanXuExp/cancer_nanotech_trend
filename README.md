@@ -25,7 +25,7 @@ Insert here -->
 
 <h2>Credits</h2>
 
-- Author: Nuwan Indika Millagaha Gedara, Majid Jaberi-Duraki
+- Authors: Nuwan Indika Millagaha Gedara, Majid Jaberi-Duraki
 - Illustrations
 - Colors
 
