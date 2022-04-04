@@ -1,6 +1,6 @@
 <h1 align="center">Cancer Nanotechnology Trend</h1>
 <p align="center"><strong>Machine Learning Techniques in Cancer Nanotechnology</strong></p>
-<div align="center"><img src="demo.gif"></img></div>
+<div align="center"><img src="images/Graphical Abstract.jpg"></img></div>
 <h2>About</h2>
 <a href="https://doi.org/10.3390/cancers13174417" target="_blank"></a>
 
